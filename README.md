@@ -1,4 +1,4 @@
-# 🪙 CryptoLive Tap: Vanilla JS Market Tracker
+# CryptoLive Tap: Vanilla JS Market Tracker
 
 A real-time cryptocurrency price tracker built with **Vanilla JavaScript**, utilizing the CoinGecko API. This project focuses on high-performance DOM manipulation, asynchronous data fetching, and responsive CSS Grid design.
 
